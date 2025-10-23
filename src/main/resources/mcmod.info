@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "notorchspam",
+    "name": "No Torch Spam",
+    "description": "Allows configurable light levels for natural hostile mob spawns.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["FleetingDream"],
+    "credits": "Me",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
